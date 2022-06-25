@@ -49,3 +49,14 @@ print(okul.isalpha())
 print(okul.isdigit())
 """
 
+#soru 8
+
+"""
+print(okul.startswith('T'))
+"""
+
+#soru 9
+
+"""
+print(okul.endswith('T'))
+"""
