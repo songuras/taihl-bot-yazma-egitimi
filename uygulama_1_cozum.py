@@ -60,3 +60,9 @@ print(okul.startswith('T'))
 """
 print(okul.endswith('T'))
 """
+
+#soru 10
+
+"""
+print(okul.replace("T","K"))
+"""
