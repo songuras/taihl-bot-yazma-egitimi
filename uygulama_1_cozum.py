@@ -6,3 +6,11 @@ ikinci = int(input("ikinci sınav notu : "))
 ort = (birinci+ikinci)/2
 print(f"öğrencinin adı : {ad} sınav ortalaması : {ort}")
 """
+
+#soru 2
+"""
+r = int(input("dairenin yarıçapını girin : "))
+alan = (r**2)*3.14
+cevre = 2*3.14*r
+print(f"dairenin alanı = {alan},dairenin çevresi = {cevre}")
+"""
