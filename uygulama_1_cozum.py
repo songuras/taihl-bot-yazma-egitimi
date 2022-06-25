@@ -36,3 +36,16 @@ print(okul)
 """
 print(okul.find('T'))
 """
+
+#soru 6
+
+"""
+print(okul.isalpha())
+"""
+
+#soru 7
+
+"""
+print(okul.isdigit())
+"""
+
