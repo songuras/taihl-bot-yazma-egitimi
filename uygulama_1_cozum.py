@@ -30,3 +30,9 @@ okul=okul.upper()
 okul=okul.replace("I","İ")
 print(okul)
 """
+
+#soru 5
+
+"""
+print(okul.find('T'))
+"""
