@@ -16,9 +16,17 @@ print(f"dairenin alanı = {alan},dairenin çevresi = {cevre}")
 """
 
 #soru 3
-"""
+
 url = "https://teknolojiaihl.meb.k12.tr/"
 okul  = "Teknoloji Anadolu İmam Hatip Lisesi"
+"""
 uzunluk = len(url)
 print(f"url değişkeni içinde : {uzunluk}  karakter bulunmaktadır")
+"""
+
+#soru 4
+"""
+okul=okul.upper()
+okul=okul.replace("I","İ")
+print(okul)
 """
