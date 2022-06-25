@@ -14,3 +14,11 @@ alan = (r**2)*3.14
 cevre = 2*3.14*r
 print(f"dairenin alanı = {alan},dairenin çevresi = {cevre}")
 """
+
+#soru 3
+"""
+url = "https://teknolojiaihl.meb.k12.tr/"
+okul  = "Teknoloji Anadolu İmam Hatip Lisesi"
+uzunluk = len(url)
+print(f"url değişkeni içinde : {uzunluk}  karakter bulunmaktadır")
+"""
